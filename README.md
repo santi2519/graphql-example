@@ -1,6 +1,6 @@
 # graphql-example
 
-GraphQL with express js example
+GraphQL with ExpressJs example
 
 ## Installation
 
