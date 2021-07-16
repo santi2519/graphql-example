@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Test name 1",
+        "cars": [
+            {
+                "color": "blue"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Test name 2",
+        "cars": [
+            {
+                "color": "red"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Test name 3",  
+        "cars": [
+            {
+                "color": "black"
+            }
+        ]
+    }
+]
